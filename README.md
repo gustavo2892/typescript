@@ -1,5 +1,4 @@
 <h1 align="center">
-  Portfólio Gustavo Freitas
   <div>
     <img src="https://img.shields.io/badge/-ReactJS-blue" />
     <img src="https://img.shields.io/badge/-Typescript-blueviolet" />
